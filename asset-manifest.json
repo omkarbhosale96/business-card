@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/business-card/static/css/main.0bdfcac8.css",
+    "main.css": "/business-card/static/css/main.a0373107.css",
     "main.js": "/business-card/static/js/main.0708c314.js",
     "static/js/787.bc412fff.chunk.js": "/business-card/static/js/787.bc412fff.chunk.js",
     "static/media/omkar.jpg": "/business-card/static/media/omkar.cd39d249b95f0ebfebd3.jpg",
     "index.html": "/business-card/index.html",
-    "main.0bdfcac8.css.map": "/business-card/static/css/main.0bdfcac8.css.map",
+    "main.a0373107.css.map": "/business-card/static/css/main.a0373107.css.map",
     "main.0708c314.js.map": "/business-card/static/js/main.0708c314.js.map",
     "787.bc412fff.chunk.js.map": "/business-card/static/js/787.bc412fff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0bdfcac8.css",
+    "static/css/main.a0373107.css",
     "static/js/main.0708c314.js"
   ]
 }
