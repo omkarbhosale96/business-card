@@ -1,0 +1,83 @@
+.App{
+  background-color: rgb(35, 33, 38);
+  width: 25%;
+  margin: auto;
+  text-align: center;
+  border-radius: 7px;
+}
+
+.header > img{
+  width: 100%;
+  border-radius: 7px 7px 0px 0px;
+  margin-bottom: 0px;
+}
+
+body{
+   font-family: 'Inter', sans-serif;
+   background: rgb(51, 51, 51);
+   color: whitesmoke;
+}
+
+.header > h2{
+  font-weight: 900;
+  font-size: 180%;
+  margin-bottom: 0%;
+  margin-top: 5%;
+}
+
+.header > p{
+  font-weight: 300;
+  color: rgb(244, 160, 104);
+  font-size: medium;
+  margin-top: 0px;
+  margin-bottom: 2%;
+}
+
+button{
+  border-radius: 7px;
+  border: none;
+  font-size: 16px;
+  padding : 10px 25px;
+  width: 35%;
+  cursor: pointer;
+}
+
+.button-container button{
+  margin-right: 20px;
+  margin-top: 0%;
+}
+
+.button-container button:last-child{
+  margin-right: 0px;
+  background: rgb(72, 140, 237);
+  color: white;
+}
+
+.main{
+  text-align: left;
+  padding: 0px 50px 0px 50px;
+  margin: 30px 0px 30px 0px;
+}
+
+.main > * {
+  margin: 5px 0px 5px 0px;
+}
+
+.footer{
+  padding: 0px 10px 0px 10px;
+  background: rgb(18, 18, 18);
+  border-radius: 0px 0px 7px 7px;
+}
+
+.footer > *{
+  padding: 15px 15px 15px 15px;
+  font-size: 25px;
+}
+
+.mailLink{
+  text-decoration: none;
+}
+
+
+
+
